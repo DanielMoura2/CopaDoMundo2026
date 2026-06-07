@@ -78,7 +78,7 @@ export default function MatchCard({
             }}
             onClick={onRandom}
           >
-            🎲 Sortear
+             Sortear
           </button>
         </div>
       )}

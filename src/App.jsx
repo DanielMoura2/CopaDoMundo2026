@@ -299,7 +299,7 @@ export default function App() {
   </div>
 </div>
       <h1>
-        🏆 Copa do Mundo 2026
+         Copa do Mundo 2026
       </h1>
 
       {!showKnockout && (

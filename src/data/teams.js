@@ -1,14 +1,14 @@
 export const groups = {
-  A: ["México", "Estados Unidos", "Canadá", "Nova Zelândia"],
-  B: ["Brasil", "Argentina", "Uruguai", "Chile"],
-  C: ["França", "Alemanha", "Holanda", "Bélgica"],
-  D: ["Espanha", "Portugal", "Itália", "Croácia"],
-  E: ["Inglaterra", "Dinamarca", "Suíça", "Áustria"],
-  F: ["Japão", "Coreia do Sul", "Austrália", "Irã"],
-  G: ["Marrocos", "Nigéria", "Senegal", "Egito"],
-  H: ["Colômbia", "Equador", "Peru", "Paraguai"],
-  I: ["Estados Unidos 2", "Costa Rica", "Panamá", "Honduras"],
-  J: ["Sérvia", "Polônia", "Ucrânia", "República Tcheca"],
-  K: ["Turquia", "Grécia", "Suécia", "Noruega"],
-  L: ["Camarões", "Gana", "Tunísia", "Argélia"]
+  A: ["México", "África do Sul", "Coreia do Sul", "República Tcheca"],
+  B: ["Canadá", "Bósnia e Herzegovina", "Catar", "Suíça"],
+  C: ["Brasil", "Marrocos", "Haiti", "Escócia"],
+  D: ["Estados Unidos", "Paraguai", "Austrália", "Turquia"],
+  E: ["Alemanha", "Curaçao", "Costa do Marfim", "Equador"],
+  F: ["Holanda", "Japão", "Suécia", "Tunísia"],
+  G: ["Bélgica", "Egito", "Irã", "Nova Zelândia"],
+  H: ["Espanha", "Cabo Verde", "Arábia Saudita", "Uruguai"],
+  I: ["França", "Senegal", "Repescagem Intercontinental 2", "Noruega"],
+  J: ["Argentina", "Argélia", "Áustria", "Jordânia"],
+  K: ["Portugal", "RD Congo", "Uzbequistão", "Colômbia"],
+  L: ["Inglaterra", "Croácia", "Gana", "Panamá"]
 };

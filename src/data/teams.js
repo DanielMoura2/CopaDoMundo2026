@@ -7,7 +7,7 @@ export const groups = {
   F: ["Holanda", "Japão", "Suécia", "Tunísia"],
   G: ["Bélgica", "Egito", "Irã", "Nova Zelândia"],
   H: ["Espanha", "Cabo Verde", "Arábia Saudita", "Uruguai"],
-  I: ["França", "Senegal", "Repescagem Intercontinental 2", "Noruega"],
+  I: ["França", "Senegal", "Iraque", "Noruega"],
   J: ["Argentina", "Argélia", "Áustria", "Jordânia"],
   K: ["Portugal", "RD Congo", "Uzbequistão", "Colômbia"],
   L: ["Inglaterra", "Croácia", "Gana", "Panamá"]

@@ -494,7 +494,7 @@ export default function App() {
         boxShadow: "0 0 15px rgba(0,0,0,0.2)"
       }}
     >
-      <h1>🏆 COPA DO MUNDO 2026</h1>
+      <h1> COPA DO MUNDO 2026</h1>
 
       <h2>CAMPEÃO</h2>
 
@@ -550,7 +550,7 @@ export default function App() {
             boxSizing: "border-box"
         }}
       >
-        Simulado em Meu Simulador da Copa ⚽
+        Simulado em Meu Simulador da Copa 
       </div>
     </div>
   </div>
